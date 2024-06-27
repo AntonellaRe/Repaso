@@ -166,4 +166,4 @@ numeros = [25, 14, 48, 58, 95, 120, 76]
 numeros.sort()
 print(numeros)
 
-#PARCIAL 27/06/2024
+#PARCIAL 27/06/2024.
