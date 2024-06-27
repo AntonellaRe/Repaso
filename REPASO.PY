@@ -162,3 +162,6 @@ print(es_primo(10)) # False
 
 #Crea una lista con números desordenados y ordénalos en orden ascendente.
 
+numeros = [25, 14, 48, 58, 95, 120, 76]
+numeros.sort()
+print(numeros)
